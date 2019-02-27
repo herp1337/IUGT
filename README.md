@@ -1,5 +1,26 @@
-<b>Required: </b><br/><i>1.Python2.7<br/>2.Internet Connection<br/><b>Usage: </b>
-<i>Get Basic Info: </i><br/>
+# IUGT
+Note: IUGT Created In python2.7
+Author: @Herp1337 A.K.A HeroBrinePE</br>
+<tt>Information User Github</tt></br> Inspired By @GithubAPI
+# INSTALLING
+<b>Installing In Linux</b></br>
+<tt># sudo apt-get install git</tt></br>
+<tt># sudo apt-get install python</tt></br>
+
+<tt># git clone https://www.github.com/herp1337/IUGT</tt></br>
+<tt># cd MBF2</tt></br>
+<tt># python IUGT.py --help </tt></br>
+......................................</br>
+<b>Installing In Termux (Android)</b></br>
+<tt># pkg install git</tt></br>
+<tt># pkg install python2</tt></br>
+
+<tt># git clone https://www.github.com/herp1337/IUGT</tt></br>
+<tt># cd MBF2</tt></br>
+<tt># python2 IUGT.py --help</tt></br>
+......................................</br>
+# USAGE
+
 <tt>python2 iugt.py --info {username}</tt><br/>
 Get User Follower:<br/>
 <tt>python2 iugt.py --followers {username}</tt><br/>
