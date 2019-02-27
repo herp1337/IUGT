@@ -8,7 +8,7 @@ Author: @Herp1337 A.K.A HeroBrinePE</br>
 <tt># sudo apt-get install python</tt></br>
 
 <tt># git clone https://www.github.com/herp1337/IUGT</tt></br>
-<tt># cd MBF2</tt></br>
+<tt># cd IUGT</tt></br>
 <tt># python IUGT.py --help </tt></br>
 ......................................</br>
 <b>Installing In Termux (Android)</b></br>
@@ -16,7 +16,7 @@ Author: @Herp1337 A.K.A HeroBrinePE</br>
 <tt># pkg install python2</tt></br>
 
 <tt># git clone https://www.github.com/herp1337/IUGT</tt></br>
-<tt># cd MBF2</tt></br>
+<tt># cd IUGT</tt></br>
 <tt># python2 IUGT.py --help</tt></br>
 ......................................</br>
 # USAGE
